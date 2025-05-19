@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/KhaiLam-1004/PhotoBooth.git/static/js/main.f5492d72.js",
-    "index.html": "/KhaiLam-1004/PhotoBooth.git/index.html",
-    "main.f5492d72.js.map": "/KhaiLam-1004/PhotoBooth.git/static/js/main.f5492d72.js.map"
+    "main.js": "/PhotoBooth/static/js/main.e76710cb.js",
+    "index.html": "/PhotoBooth/index.html",
+    "main.e76710cb.js.map": "/PhotoBooth/static/js/main.e76710cb.js.map"
   },
   "entrypoints": [
-    "static/js/main.f5492d72.js"
+    "static/js/main.e76710cb.js"
   ]
 }
